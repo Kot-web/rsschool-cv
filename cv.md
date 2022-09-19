@@ -28,3 +28,5 @@ return a * b
 _No experience in development_
 ### Education
 Institute of Parliamentarism and Entrepreneurship, specialty "Finance and Credit".
+### Language
+English level A2
